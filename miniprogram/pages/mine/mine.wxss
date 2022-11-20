@@ -1,0 +1,47 @@
+/* pages/mine/mine.wxss */
+.box {
+  border-radius: 30%;
+  text-align: center;
+  font-size: 80rpx;
+}
+.mine-image {
+  width: 100%;
+  height: 100%;
+}
+
+.float-box {
+  margin-top: 3px;
+  height: 455px;
+}
+
+.float-box view {
+  float: left;
+}
+
+.left {
+  margin-right: 10px;
+  height: 100%;
+  width: 25%;
+}
+
+.left image {
+  height: 100%;
+  width: 100%;
+}
+.right {
+  height: 100%;
+  width: 70%;
+}
+.right .image {
+  margin-top: 10px;
+  margin-right: 10px;
+  height: 45%;
+  width: 45%;
+}
+
+image {
+  height: 100%;
+  width: 100%;
+}
+
+

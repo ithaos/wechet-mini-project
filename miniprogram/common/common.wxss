@@ -1,0 +1,4 @@
+view {
+  font-size: 50rpx;
+  color: goldenrod;
+}

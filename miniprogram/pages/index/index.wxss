@@ -1,0 +1,36 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #aaa;
+}
+
+.userinfo-avatar {
+  overflow: hidden;
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+
+.usermotto {
+  height: 200px;
+  width: 100%;
+  background-color: aquamarine;
+
+  display: flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content: space-between;
+  align-items:center;
+}
+
+.usermotto_in {
+  text-align: center;
+  height: 50px;
+  width: 50px;
+  margin: 0 5px;
+  background-color: brown;
+}
